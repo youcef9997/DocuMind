@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Environment variables
+.env
+
+# Local document and vector storage
+data/*
+!data/.gitkeep
+
+# Application data
+*.sqlite3
+*.log
