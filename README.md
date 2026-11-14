@@ -132,8 +132,6 @@ GROQ_MODEL=openai/gpt-oss-20b
 
 Use a supported chat model available to your Groq account.
 
-Never commit your `.env` file or expose your API key.
-
 ### Launch the application
 
 ```bash
